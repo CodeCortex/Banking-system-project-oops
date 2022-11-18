@@ -1,0 +1,112 @@
+customer 1
+aditya
+2
+adi
+PQRST
+adi@gmail.com
+1234123412
+
+customer 1
+adit
+2
+adi
+PQRS
+adi@gmail.com
+1234123412
+
+customer 1
+adi
+2
+adi
+fin
+adi@gmail.com
+1234123412
+
+customer 2
+adi
+3
+adi1
+fin
+adi@gmail.com
+1234123412
+
+customer 1
+raju
+2
+raju
+PQR
+raju@gmail.com
+9075320210
+
+customer 1
+roshan
+2
+ros
+PQR
+ros@gmail.com
+1234567890
+
+customer 2
+roshan
+3
+rosh
+wtx
+rosh@gmail.com
+1234567890
+
+customer 1
+adi
+2
+adi
+fin
+adi@gmail.com
+1234123412
+
+customer 1
+aditya
+2
+adi
+PQRST
+adi@gmail.com
+1234123412
+
+customer 2
+aditya
+3
+adi1
+PQRST
+aditya@gmail.com
+1234123412
+
+customer 1
+adi
+2
+1234
+PQRST
+adi@gmail.com
+1234512341
+
+customer 1
+adi
+2
+adi
+PQRST
+adi@gmail.com
+1234123412
+
+customer 1
+adi
+2
+adi
+PQRST
+adi@gmail.com
+1234123412
+
+customer 1
+adi
+2
+1234
+PQRST
+adi@gmail.com
+1234123412
+
